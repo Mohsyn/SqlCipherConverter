@@ -44,13 +44,13 @@ pip install pysqlcipher3
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourusername/sqlite-encryptor-gui.git
-   cd sqlite-encryptor-gui
+   git clone https://github.com/yourusername/sqlciphercoverter.git
+   cd sqlciphercoverter
    ```
 
 2. Run the app:
    ```bash
-   python sqlite_encryptor_gui.py
+   python sqlciphercoverter.py
    ```
 
 ---
@@ -69,7 +69,7 @@ pip install pysqlcipher3
 ```
 sqlite-encryptor-gui/
 │
-├── sqlite_encryptor_gui.py    # Main application script
+├── sqlciphercoverter.py       # Main application script
 └── README.md                  # This file
 ```
 
